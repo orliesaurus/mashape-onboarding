@@ -10,12 +10,12 @@ There are two ways to create an application:
 * From the dashboard clicking the Add application button
 * From the site navigation toolbar
 
-<p class="image-center"><img width="550" src='/imgs/add-application.png'></p>
+<p class="image-center"><img width="100%" src='/imgs/add-application.png'></p>
 
 ## Single Application Overview
 After specifying the name the application (I picked 'new app') you will be greeted with the following screen.
 
-<p class="image-center"><img width="550" src='/imgs/new-application.png'></p>
+<p class="image-center"><img width="100%" src='/imgs/new-application.png'></p>
 
 On the left hand side:
 
