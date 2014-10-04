@@ -1,4 +1,4 @@
-##Exploring the Marketplace and Consuming an API
+##Exploring the Marketplace
 
 If you know of a specific API you can search for it specifically in the marketplace, otherwise you can search the marketplace through categories
 
