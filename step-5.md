@@ -1,6 +1,0 @@
-+navigation('1. Welcome')
-                +navigation('2. Applications')
-                +navigation('3. Marketplace')
-                +navigation('4. Consuming')
-                +navigation('5. Adding APIs')
-                +navigation('6. Admin API')
