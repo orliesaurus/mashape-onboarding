@@ -1,4 +1,4 @@
-#Consuming an API
+##Consuming an API
 
 Each API has its own page, where different tabs are shown:
 
@@ -69,3 +69,7 @@ Issues can be private if you only want the provider to see them (for example if 
 You can use the issue search function to filter out certain types of issues by name.
 
 - - -
+
+<div class="col-md-12" >
+<p><a href="step-5"> <button class="btn btn-default" type="button" style="float: right">Next</button></a></p>
+</div>

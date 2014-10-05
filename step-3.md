@@ -20,6 +20,7 @@ Finally you can star an API to show your support to the provider and developers 
 *If an API is private, a lock icon will appear next to its name. Such APIs are not publicly discoverable by others but you and the provider*
 
 **Select an API by clicking on it and you will be taken to its documentation page.**
-<div class="col-md-12">
-<p><button class="btn btn-default" type="button"><a href="step-4"> Next</a></button></p>
+
+<div class="col-md-12" >
+<p><a href="step-4"> <button class="btn btn-default" type="button" style="float: right">Next</button></a></p>
 </div>

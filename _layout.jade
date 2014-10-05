@@ -1,3 +1,11 @@
+mixin navigation
+    each page, idx in {index:'1. Welcome', 'step-2':'2. Applications', 'step-3':'3. Marketplace', 'step-4':'4. Consuming', 'step-5':'5. Adding APIs', 'step-6':'6. Admin API'}
+        if idx == current.source
+            span.passed-page #{page}
+        else
+            a(href='#{idx}')
+                span #{page}
+
 doctype
 html
   head
@@ -6,11 +14,15 @@ html
     link(href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css",rel="stylesheet",type="text/css")
     script(src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js")
   body
-    .container
+    .container#con
+      div.logobg
       .row
         .col-md-12
             h1.text-center Mashape Onboarding
-            h5.text-center Last updated 10/10/10
+            .connector
+            .text-center
+                +navigation
+                .text-center.line
             .col-md-12.description
                 != yield
 

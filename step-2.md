@@ -33,6 +33,6 @@ On the top menu of this view:
 ## Next steps
 Now that you've created an application it is time to associate it and consume an API.
 
-<div class="col-md-12">
-<p><button class="btn btn-default" type="button"><a href="step-3"> Next</a></button></p>
+<div class="col-md-12" >
+<p><a href="step-3"> <button class="btn btn-default" type="button" style="float: right">Next</button></a></p>
 </div>
