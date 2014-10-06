@@ -47,8 +47,8 @@ These are just like normal plans in terms of setup, but unlike them they're not 
 ###Overview tab
 A tab only visible if the API provider adds content to it.
 
-1. In the overview tab you can add headlines that give a general overview of what your API is all about.
-2. You can also add your custom API Terms of usage.
+1. In the overview tab you can add headlines that give a general overview of what your API is all about.<strong style="color:red">(<strong style="color:white">1</strong>)</strong>
+2. You can also add your custom API Terms of usage.<strong style="color:red">(<strong style="color:white">2</strong>)</strong>
 
 
 <p class="image-center"><img width="100%" src='/imgs/overview-tab.png'></p>
